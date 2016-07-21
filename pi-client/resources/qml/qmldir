@@ -1,0 +1,17 @@
+singleton PIStyle 1.0 PIStyle.qml
+BusyAnimation 1.0 BusyAnimation.qml
+NotificationHandler 1.0 NotificationHandler.qml
+
+Background 1.0 Background.qml
+BaseScreen 1.0 BaseScreen.qml
+AppScreen 1.0 AppScreen.qml
+
+StartStack 1.0 StartStack.qml
+StartScreen 1.0 StartScreen.qml
+ParametersScreen 1.0 ParametersScreen.qml
+
+ConnectingScreen 1.0 ConnectingScreen.qml
+LoginScreen 1.0 LoginScreen.qml
+AuthenticatingScreen 1.0 AuthenticatingScreen.qml
+HomeScreen 1.0 HomeScreen.qml
+

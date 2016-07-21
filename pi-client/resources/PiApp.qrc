@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/PIStyle.qml</file>
+        <file>qml/Background.qml</file>
+        <file>qml/BusyAnimation.qml</file>
+        <file>qml/BaseScreen.qml</file>
+        <file>qml/ConnectingScreen.qml</file>
+        <file>qml/AppScreen.qml</file>
+        <file>qml/HomeScreen.qml</file>
+        <file>img/repeated-background-1.png</file>
+        <file>img/repeated-background-1@2X.png</file>
+        <file>img/repeated-background-2.png</file>
+        <file>img/repeated-background-2@2X.png</file>
+        <file>img/repeated-background-3.png</file>
+        <file>img/repeated-background-3@2X.png</file>
+        <file>qml/qmldir</file>
+        <file>qml/AppStack.qml</file>
+        <file>qml/AuthenticatingScreen.qml</file>
+        <file>qml/LoginScreen.qml</file>
+        <file>qml/AddScreen.qml</file>
+        <file>img/remove.png</file>
+        <file>img/speaker.png</file>
+        <file>qml/WebViewScreen.qml</file>
+        <file>img/genepi.png</file>
+        <file>qml/NotificationHandler.qml</file>
+        <file>img/speaking.png</file>
+        <file>qml/StartScreen.qml</file>
+        <file>qml/ParametersScreen.qml</file>
+        <file>qml/StartStack.qml</file>
+    </qresource>
+</RCC>
